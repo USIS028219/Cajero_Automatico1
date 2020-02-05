@@ -42,6 +42,7 @@
             this.BtnRetirar.TabIndex = 0;
             this.BtnRetirar.Text = "RETIRAR";
             this.BtnRetirar.UseVisualStyleBackColor = true;
+            this.BtnRetirar.Click += new System.EventHandler(this.BtnRetirar_Click);
             // 
             // LblCantidad
             // 
