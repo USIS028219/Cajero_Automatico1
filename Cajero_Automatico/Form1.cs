@@ -16,5 +16,7 @@ namespace Cajero_Automatico
         {
             InitializeComponent();
         }
+
+       
     }
 }
